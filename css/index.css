@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    min-height: 100vh;
+}
+
+.back-div{
+    background-image: url(../imgs/back2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    opacity: 0.5;
+    filter: blur(5px);
+}
+
+.font-bold{
+    font-weight: 600;
+}
