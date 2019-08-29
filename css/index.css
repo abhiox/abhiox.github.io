@@ -14,8 +14,8 @@ body{
     left: 0;
     width: 100%;
     height: 100vh;
-    opacity: 0.5;
-    filter: blur(5px);
+    opacity: 0.8;
+    filter: sepia(1) blur(3px);
 }
 
 .font-bold{
